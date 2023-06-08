@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "727073716390",
+    "firebase_url": "https://resolute-ai-software-f4ea9-default-rtdb.firebaseio.com",
+    "project_id": "resolute-ai-software-f4ea9",
+    "storage_bucket": "resolute-ai-software-f4ea9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727073716390:android:7cd3fb0e9a9495bfb45c67",
+        "android_client_info": {
+          "package_name": "com.ps.resoluteaisoftware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727073716390-vi213pt5hkhsh3d53vtr9ajlnrnfvp61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ps.resoluteaisoftware",
+            "certificate_hash": "e78dffaadcdef2d42be248e71a9663aeb39ac090"
+          }
+        },
+        {
+          "client_id": "727073716390-cokl0d4oo1ro8tb2dp4fpvffag7aesg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6-Vts3ofq3umd74NEGyM_JfYrsBHW6_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727073716390-cokl0d4oo1ro8tb2dp4fpvffag7aesg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
