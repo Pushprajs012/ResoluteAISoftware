@@ -22,7 +22,8 @@ public class Adapter extends RecyclerView.Adapter<RVHolder> {
     @NonNull
     @Override
     public RVHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-       return new RVHolder(RvlayoutBinding.inflate(LayoutInflater.from(parent.getContext())));
+        RvlayoutBinding rvlayoutBinding=RvlayoutBinding.inflate(LayoutInflater.from(parent.getContext()),parent,false);
+       return new RVHolder(rvlayoutBinding);
 
     }
 
